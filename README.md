@@ -107,12 +107,13 @@ python main.py
 
 ## Authors
 
-**Bai Fatima A. Andong** — b.andong.545438@umindanao.edu.ph  
-**Christian James C. Cahilig** — c.cahilig.544797@umindanao.edu.ph  
-**Karylle Mish T. Gellica** — k.gellica.544337@umindanao.edu.ph  
-**Daniel Cott Gerarman** — d.gerarman.546010@umindanao.edu.ph
-**Jan Loren Odiong** — j.odiong.544579@umindanao.edu.ph
-**John Llorie Sarmiento** — j.sarmiento.545495@umindanao.edu.ph
+* **Bai Fatima A. Andong** — b.andong.545438@umindanao.edu.ph
+* **Christian James C. Cahilig** — c.cahilig.544797@umindanao.edu.ph
+* **Karylle Mish T. Gellica** — k.gellica.544337@umindanao.edu.ph
+* **Daniel Cott Gerarman** — d.gerarman.546010@umindanao.edu.ph
+* **Jan Loren Odiong** — j.odiong.544579@umindanao.edu.ph
+* **John Llorie Sarmiento** — j.sarmiento.545495@umindanao.edu.ph
+
 BS Computer Science, University of Mindanao — Final Project, 2026
 
 ---
